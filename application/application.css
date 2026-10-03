@@ -1,0 +1,47 @@
+/*Allgemeine Eigenschaften*/
+.root{
+	-fx-background-image: url("/assets/bild/hintergrund.jpeg");
+	-fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+.icon-button{
+  -fx-min-width: 32;
+  -fx-min-height: 32;
+  -fx-background-color: transparent;
+  -fx-background-repeat: no-repeat no-repeat;
+  -fx-background-size: 28 28;
+  -fx-background-position:center;
+	
+}
+
+#backButton {
+	-fx-background-image: url("/assets/icon/backweiss.png");
+	
+}
+
+#playButton {
+	-fx-background-image: url("/assets/icon/playweiss.png");
+}
+
+#skipButton{
+	-fx-background-image: url("/assets/icon/skipweiss.png");
+}
+
+
+#shuffleButton{
+	-fx-background-image: url("/assets/icon/shuffle3.png");
+	
+	
+	/*-fx-background-repeat: no-repeat;*/
+}
+
+
+
+
+
+
+/*
+
+#controlView {
+	-fx-background-color: grey;
+}*/

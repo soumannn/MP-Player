@@ -1,0 +1,3 @@
+#EXTM3U
+song1.mp3 Helene Fischer BringMichNachHause Romantik
+song2.mp3 Mark Forster DreiWorte Country
